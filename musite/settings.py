@@ -25,7 +25,7 @@ SECRET_KEY = 'wtry=%z$3jf=k=$aryxg6+5(pr-#*g85)*0(*)qhyedg02(8op'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['127.0.0.1', '<твоё_имя_пользователя>.pythonanywhere.com']
+ALLOWED_HOSTS = ['127.0.0.1', 'auriena.pythonanywhere.com']
 
 
 # Application definition
